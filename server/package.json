@@ -22,7 +22,7 @@
     "@scalar/hono-api-reference": "^0.12.24",
     "better-auth": "^1.7.15",
     "drizzle-orm": "^0.45.3",
-    "hono": "^4.13.20",
+    "hono": "^4.13.21",
     "nodemailer": "^10.6.1",
     "pg": "^8.23.0",
     "playwright-core": "^1.65.1",
